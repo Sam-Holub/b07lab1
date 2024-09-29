@@ -146,7 +146,7 @@ public class Polynomial {
         {
             String polynomialStr = ""; 
             int currentExponent;
-            double currentCoefficient
+            double currentCoefficient;
 
 
             for (int i = 0; i < coefficients.length; i++) 
